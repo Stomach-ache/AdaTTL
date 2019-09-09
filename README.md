@@ -1,5 +1,5 @@
 # IJCAI'18 - AdaTTL 
-Code for paper "Does Tail Label Help for Large-Scale Multi-Label Learning?"
+MATLAB code for paper "Does Tail Label Help for Large-Scale Multi-Label Learning?"
 
 The package includes the MATLAB code of the Adaptively Trimming off Tail Labels (AdaTTL) which aims to filter out tail labels and facilitate fast prediction as well as compact model size for large-scale multi-label learning.
 
