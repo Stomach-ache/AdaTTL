@@ -9,8 +9,16 @@ You will find an example of using this code in script **'example.m'**.
 Please cite this paper when using this code for your research.
 
 
-Tong Wei, Yu-Feng Li. Does Tail Label Help for Large-Scale Multi-Label Learning. In: Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI'18), Stockholm, Sweden, 2018.
-
+```
+@inproceedings{wei2018ijcai,
+  title={Does Tail Label Help for Large-Scale Multi-Label Learning},
+  author={Wei, Tong and Li, Yu-Feng},
+  booktitle={Proceedings of the 27th International Joint Conference on Artificial Intelligence},
+  pages={2847--2853},
+  year={2018},
+  address={Stockholm, Sweden}
+}
+```
 
 For any problem concerning the code, please feel free to contact Tong Wei at weit@lamda.nju.edu.cn
 
