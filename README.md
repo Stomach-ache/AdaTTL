@@ -10,7 +10,7 @@ Please cite this paper when using this code for your research.
 
 
 ```
-@inproceedings{wei2018ijcai,
+@inproceedings{DBLP:conf/ijcai/WeiL18,
   title={Does Tail Label Help for Large-Scale Multi-Label Learning},
   author={Wei, Tong and Li, Yu-Feng},
   booktitle={Proceedings of the 27th International Joint Conference on Artificial Intelligence},
